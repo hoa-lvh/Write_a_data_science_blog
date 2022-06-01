@@ -3,6 +3,7 @@
 ### Medium Blog Post
 Here is the Medium blog post I have written: https://medium.com/@hoa.lvh99/seattle-airbnb-analysis-be29267c6c37
 
+Github: https://github.com/hoa-lvh/Write_a_data_science_blog
 
 ### Project Motivation
 I used Seattle Airbnb Dataset for this project. As part of the Airbnb Inside initiative, the dataset describes the listing activities of homestays in Seattle, WA. The original dataset can be found here: https://www.kaggle.com/airbnb/seattle
